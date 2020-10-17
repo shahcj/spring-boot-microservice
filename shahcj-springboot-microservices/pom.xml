@@ -6,7 +6,7 @@
     <version>2.2.2.RELEASE</version>
   </parent>
   <groupId>com.shahcj.springboot.microservices</groupId>
-  <artifactId>shahcj-springboot-microservices</artifactId>
+  <artifactId>first-springboot-microservice</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
 		<dependency>
